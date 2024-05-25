@@ -2,7 +2,7 @@
 
 ## a)Introducción
 
-  - [¿Qué es WSL?](wsl.md)
+  - [¿Qué es WSL?](ficheros/wsl.md)
 
 ## b)Instalación
 
