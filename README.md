@@ -1,2 +1,2 @@
 # WSL
-trabajo de Windows SuBsystem Linux
+## Trabajo de Windows SuBsystem Linux
