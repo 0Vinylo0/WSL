@@ -11,3 +11,10 @@
 
   ![imagen3](../img/3.png)
 
+- Luego de reiniciar te saldra automatiocamnete una terminal con el sistema instalado en este caso ubuntu y te pedira que crees un usuario con su contraseñe
+
+  ![imagen4](../img/4.png)
+
+- Y ya estaria listo para usar nuesto ubuntu dentro de windows
+
+  ![imagen5](../img/5.png)
