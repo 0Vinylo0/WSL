@@ -6,6 +6,8 @@
 
 ## b)Instalación
 
+  - [Como instalar](ficheros/instalacion.md)
+
 ## c)Instalación de un Debian y un Ubuntu.
 
 ## d)Procesos asociados WSL
