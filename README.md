@@ -8,11 +8,16 @@
 
   - [Como instalar](ficheros/instalacion.md)
 
-## c)Instalación de un Debian y un Ubuntu.
-
 ## d)Procesos asociados WSL
 
+  - Los Procesos asociados de WSL son los que aparecen en la captura, vemos como esta el terminal ejecutado
+    y en los procesos de segundo plano los cuatro procesos de WindowsSubystemLinix
+
+  ! [imagen-procesos](img/procesos.png)
+
 ## e) Referencias
+
+- [microsoft](https://learn.microsoft.com/es-es/windows/wsl/install)
 
 ## Autores
 
