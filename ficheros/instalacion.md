@@ -3,7 +3,8 @@
 
   ![imagen1](../img/1.png)
 
-- Luego escribimos "wsl --install" y ejecutamos
+- Luego escribimos "wsl --install" y ejecutamos, esto instalara ubuntu pero si quieres otra distro pones "wsl --list --online" para ver las distros disponibles
+  y la instalas con "-install -d <DistroName>"
 
   ![imagen2](../img/2.png)
 
