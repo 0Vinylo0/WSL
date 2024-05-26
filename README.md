@@ -1,21 +1,21 @@
 # Trabajo de Windows SuBsystem Linux
 
-## a)Introducción
+## Introducción
 
   - [¿Qué es WSL?](ficheros/wsl.md)
 
-## b)Instalación
+## Instalación
 
   - [Como instalar](ficheros/instalacion.md)
 
-## d)Procesos asociados WSL
+## Procesos asociados WSL
 
   - Los Procesos asociados de WSL son los que aparecen en la captura, vemos como esta el terminal ejecutado
     y en los procesos de segundo plano los cuatro procesos de WindowsSubystemLinix
 
   ![imagen-procesos](img/procesos.png)
 
-## e) Referencias
+## Referencias
 
 - [microsoft](https://learn.microsoft.com/es-es/windows/wsl/install)
 
